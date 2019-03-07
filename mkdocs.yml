@@ -7,6 +7,6 @@ copyright: 聚宽
 nav:
     - Home: 'index.md'
     - 标题1: 'test.md'
-    - API文档: 'api.md'
+    - API文档: 'api文档.md'
     - User Guide:
       - 'Writing your docs': 'test.md'
