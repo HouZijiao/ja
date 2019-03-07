@@ -4,7 +4,5 @@ theme: readthedocs
 repo_url: https://github.com/HouZijiao/ja
 copyright: 聚宽
 
-nav:
-    - Home: index.md
-    - About: test.md
-    - API教程: api.md
+pages:
+- {'index.md', 'Introduction'}
