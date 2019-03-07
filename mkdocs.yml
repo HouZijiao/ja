@@ -5,6 +5,8 @@ repo_url: https://github.com/HouZijiao/ja
 copyright: 聚宽
 
 nav:
-    - Home: index.md
-    - 标题1: test.md
-    - API文档: api.md
+    - Home: 'index.md'
+    - 标题1: 'test.md'
+    - API文档: 'api.md'
+    - User Guide:
+      - 'Writing your docs': 'test.md'
