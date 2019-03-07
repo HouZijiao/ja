@@ -5,5 +5,5 @@ repo_url: https://github.com/HouZijiao/ja
 copyright: 聚宽
 
 nav:
-    - Home: '关于.md'
+    - Home: 'README.md'
     - API文档: 'API文档.md'
